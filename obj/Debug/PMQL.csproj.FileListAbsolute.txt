@@ -1,0 +1,16 @@
+D:\PMQL\bin\Debug\PMQL.exe.config
+D:\PMQL\bin\Debug\PMQL.exe
+D:\PMQL\bin\Debug\PMQL.pdb
+D:\PMQL\obj\Debug\PMQL.csproj.AssemblyReference.cache
+D:\PMQL\obj\Debug\PMQL.LogIn.resources
+D:\PMQL\obj\Debug\PMQL.Properties.Resources.resources
+D:\PMQL\obj\Debug\PMQL.csproj.GenerateResource.cache
+D:\PMQL\obj\Debug\PMQL.csproj.CoreCompileInputs.cache
+D:\PMQL\obj\Debug\PMQL.exe
+D:\PMQL\obj\Debug\PMQL.pdb
+D:\PMQL\obj\Debug\PMQL.frmMenu.resources
+D:\PMQL\obj\Debug\PMQL.frmMod.resources
+D:\PMQL\obj\Debug\PMQL.frmNB.resources
+D:\PMQL\obj\Debug\PMQL.frmNM.resources
+D:\PMQL\obj\Debug\PMQL.frmVP.resources
+D:\PMQL\obj\Debug\PMQL.frmHD.resources
